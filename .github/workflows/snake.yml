@@ -19,8 +19,8 @@ jobs:
           github_user_name: matin06ap
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=7600bc
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=7600bc
+            dist/github-contribution-grid-snake.svg?color_snake=a000c8
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=a000c8
 
       - name: Push to output
         uses: crazy-max/ghaction-github-pages@v4
