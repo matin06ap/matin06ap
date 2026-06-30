@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-<p align="center">
-  <img src="https://github.com/matin06ap/matin06ap/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+
 
 
 <!--
