@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-## 🐍 My Contribution Snake
+
+## 🐍 Contribution Snake
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/matin06ap/matin06ap/output/github-contribution-grid-snake-dark.svg"
   />
-
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
+    src="https://raw.githubusercontent.com/matin06ap/matin06ap/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
   />
 </picture>
 
